@@ -1,6 +1,3 @@
-nolvis-cobol-tool
-=================
-
 #Cobol Programs Analizer#
 
 This tool is basically a Lexer for Cobol Programs. It process the source code and generate a list of tokens.
@@ -33,6 +30,6 @@ to use this tool with ANTLR library, to make real complex trasformations on cobo
 Copyright (c) 2010 Nolvis Urquiza Elías
 You can use it as you like.
 
-For any question, please write to nurquiza@grm.desoft.cu
+For any question, please contact me at: nurquiza@grm.desoft.cu
 
 
