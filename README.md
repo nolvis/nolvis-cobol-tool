@@ -1,4 +1,4 @@
-#Cobol Programs Analyzer#
+#Cobol programs analyzer#
 
 This tool is basically a Lexer for Cobol Programs. It process the source code and generate a list of tokens.
 This list includes variable definition, string literal, numeric literal, etc.; in general, all cobol words
@@ -14,7 +14,7 @@ example: string continued in next line and so on.
 As a way to prove the tool I made a simple viewer that presents the program in a web browser. It´s a basic syntax
 highlighter that mimic the common colors of Microfocus MainFrame.
 
-##Possible Applications##
+##Possible applications##
 
 A first use that I envisioned for this, is to construct a little DSL to search patterns in source code repositories
 for analysis. A next step may be perform simple program transformations.
@@ -30,6 +30,7 @@ to use this tool with ANTLR library, to make real complex trasformations on cobo
 Copyright (c) 2010 Nolvis Urquiza Elías
 You can use it as you like.
 
+## Contact
 For any question, please contact me at: nurquiza@grm.desoft.cu
 
 
