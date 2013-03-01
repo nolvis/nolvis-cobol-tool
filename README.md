@@ -1,4 +1,4 @@
-#Cobol Programs Analizer#
+#Cobol Programs Analyzer#
 
 This tool is basically a Lexer for Cobol Programs. It process the source code and generate a list of tokens.
 This list includes variable definition, string literal, numeric literal, etc.; in general, all cobol words
